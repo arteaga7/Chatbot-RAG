@@ -1,0 +1,10 @@
+[
+  {
+    "role": "usuario",
+    "content": "cuales son los apellidos de Cruz?"
+  },
+  {
+    "role": "asistente",
+    "content": "Según el archivo \"Datos_Antonio.txt\", los apellidos de Cruz son Arteaga Escamilla."
+  }
+]
