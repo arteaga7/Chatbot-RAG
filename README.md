@@ -70,6 +70,6 @@ The conversational memory is saved automatically in "./data/memory/conversation.
 
 In order to delete the previous conversation, run:
 ```bash
-python -m src.rag_local.chat --index-dir data/indexes/main --clear-memory
+python -m src.rag_local.main --index-dir data/indexes/main --clear-memory
 ```
 or delete manually the file "data/memory/conversation.json".
