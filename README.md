@@ -1,4 +1,4 @@
-# Chatbot-RAG
+# Chatbot-RAG-Memory
 Local Chatbot implementing RAG (Retrieval-Augmented Generation) using:
 
 - LLM: `llama3` via `Ollama`
@@ -10,7 +10,7 @@ Requirements: 12 GB RAM memory at least, no GPU needed.
 
 ## 🌎 Repository Structure
 ```bash
-Chatbot-RAG/
+Chatbot-RAG-Memory/
 ├── main.py
 ├── .gitignore
 ├── env/                    # Virtual enviroment (not provided)
@@ -34,7 +34,7 @@ Chatbot-RAG/
 ## 🚀 How to run locally
 1. Clone this repository:
 ```bash
-git clone https://github.com/departamentoIA/Chatbot-RAG.git
+git clone https://github.com/arteaga7/Chatbot-RAG-Memory.git
 ```
 2. Set virtual environment and install dependencies.
 
